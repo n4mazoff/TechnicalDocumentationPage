@@ -1,0 +1,8 @@
+@media (max-width: 1196) {
+ #navbar{
+   float: left;
+ }
+}
+.main-section:first-child{
+ color: yellow;
+}
